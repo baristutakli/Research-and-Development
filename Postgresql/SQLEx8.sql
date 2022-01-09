@@ -1,6 +1,6 @@
 /* Create Drop Table
 Patıka SQL Module Task 8
-
+Used https://www.mockaroo.com/ to generate data
 ---- Questions-----
 test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım.
 Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
