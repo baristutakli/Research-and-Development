@@ -1,0 +1,32 @@
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.exe
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.deps.json
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.dll
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\bin\Debug\net5.0\ref\Attributes_Reflections.dll
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.pdb
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.dll
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\obj\Debug\net5.0\ref\Attributes_Reflections.dll
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.pdb
+C:\Users\kbez1\Documents\kodlar\Real Estate\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.genruntimeconfig.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.exe
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.deps.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\bin\Debug\net5.0\ref\Attributes_Reflections.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\bin\Debug\net5.0\Attributes_Reflections.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\obj\Debug\net5.0\ref\Attributes_Reflections.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\Attributes_Reflections\obj\Debug\net5.0\Attributes_Reflections.genruntimeconfig.cache
