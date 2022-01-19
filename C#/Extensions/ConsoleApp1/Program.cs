@@ -1,4 +1,5 @@
 ﻿using ConsoleApp1.Extensions;
+using ConsoleApp1.Extensions.Abstract;
 using System;
 
 namespace ConsoleApp1
@@ -16,6 +17,10 @@ namespace ConsoleApp1
             Console.WriteLine($"{password} is not NULL and not EMPTY: " + password.IsNotNullAndNotEmpty());
             Console.WriteLine("IsLongEnough: " + password.IsLongEnough());
             Console.WriteLine("IsStrongEnough: " + password.IsStrongEnough());
+
+            email.deneme(new Validate[]{new LowerCaseValidator(),new LengthValidator(),new UpperCaseValidator() });
+           
+            
         }
     }
 }

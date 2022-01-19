@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleApp1.Extensions.Abstract;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -40,5 +41,30 @@ namespace ConsoleApp1.Extensions
 
 
         }
+        public static void deneme(this string param, params Validate[] args)
+        {
+            Console.WriteLine(args.Length);
+            foreach (var item in args)
+            {
+                Console.WriteLine(item.IsValid(param));
+            }
+
+        }
+
+        public static bool IsDigit(this string param)
+        {
+            return param.IsDigit();
+        }
+
+        public static bool IsUpper(this string param)
+        {
+            return param == param.ToUpper() ? true : false;
+        }
+
+        public static bool IsLower(this string param)
+        {
+            return param == param.ToLower() ? true : false;
+        }
+
     }
 }
