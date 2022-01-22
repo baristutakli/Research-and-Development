@@ -1,5 +1,6 @@
 ﻿namespace Attributes_Reflections
 {
+    using Attributes_Reflections.Abstract;
     using System;
     using System.Reflection;
 
@@ -62,7 +63,10 @@
             //Console.WriteLine(MethodInfoResult);
 
 
-
+            string str = "aaaaaaaaaaaaaaaaassssaaaaa";
+            Console.WriteLine(str.Validate(new Validator[1]{new LengthValidator() }));
+            string str2 = "assss";
+            Console.WriteLine(str2.Validate(new Validator[2] { new CamelValidator(), new LengthValidator() }));
 
 
 
@@ -90,28 +94,28 @@
             //Console.WriteLine(MethodInfoResult);
 
 
-            Console.WriteLine("Let's analyse System.Type derived from IReflect and MemberInfo  class\n");
-            Type obj = typeof(Type);
+            //Console.WriteLine("Let's analyse System.Type derived from IReflect and MemberInfo  class\n");
+            //Type obj = typeof(Type);
 
-            string MethodInfoResult = "";
-            foreach (MethodInfo item in obj.GetRuntimeMethods())
-            {
-                MethodInfoResult += $"Name:{item.Name}\tNumberofParameters: {item.GetParameters().Length}\tReturnType: {item.ReturnType}\n" +
-                $"DeclaringType: {item.DeclaringType}\tIsPrivate: {item.IsPrivate}\tIsPublic: {item.IsPublic}\n" +
-                $"Type: {item.GetType().GetTypeInfo()}";
-                if (item.GetParameters().Length > 0)
-                {
-                    string itemParams = "";
-                    foreach (var param in item.GetParameters())
-                    {
-                        itemParams += $"\nParam: {param}\tParamType: {param.ParameterType}";
+            //string MethodInfoResult = "";
+            //foreach (MethodInfo item in obj.GetRuntimeMethods())
+            //{
+            //    MethodInfoResult += $"Name:{item.Name}\tNumberofParameters: {item.GetParameters().Length}\tReturnType: {item.ReturnType}\n" +
+            //    $"DeclaringType: {item.DeclaringType}\tIsPrivate: {item.IsPrivate}\tIsPublic: {item.IsPublic}\n" +
+            //    $"Type: {item.GetType().GetTypeInfo()}";
+            //    if (item.GetParameters().Length > 0)
+            //    {
+            //        string itemParams = "";
+            //        foreach (var param in item.GetParameters())
+            //        {
+            //            itemParams += $"\nParam: {param}\tParamType: {param.ParameterType}";
 
-                    }
-                    MethodInfoResult += itemParams;
-                }
-                MethodInfoResult += "\n----------------------------------------\n";
-            }
-            Console.WriteLine(MethodInfoResult);
+            //        }
+            //        MethodInfoResult += itemParams;
+            //    }
+            //    MethodInfoResult += "\n----------------------------------------\n";
+            //}
+            //Console.WriteLine(MethodInfoResult);
 
             //Calculator cl = new Calculator();
             //cl.Square(2);
@@ -165,92 +169,6 @@
         public MyAtt(string value)
         {
             Value = value;
-        }
-    }
-    public class Calculator
-    {
-        public string ThisIsAField = "I'm a field";
-        public int ThisIsAProperty { get; set; }
-        public Calculator()
-        {
-            Console.WriteLine("I'm a calculator");
-        }
-
-        public int Square(int number) =>  number*number;
-        public int Cube(int number) => number * number * number;
-        public void Print() => Console.WriteLine("What are you doing?");
-
-    }
-
-
-    /// <summary>
-    /// Defines the <see cref="Ogrenci" />.
-    /// </summary>
-    public class Ogrenci
-    {
-        /// <summary>
-        /// Defines the _tc.
-        /// </summary>
-        private string _tc = "123456";
-
-        /// <summary>
-        /// Gets or sets the FirstName.
-        /// </summary>
-        public string FirstName { get; set; }
-
-        /// <summary>
-        /// Gets or sets the Tc.
-        /// </summary>
-        public string Tc
-        {
-            get { return _tc; }
-            set { _tc = value; }
-        }
-
-        /// <summary>
-        /// Defines the myInt.
-        /// </summary>
-        private int myInt = 0;
-
-        /// <summary>
-        /// Initializes a new instance of the <see cref="Ogrenci"/> class.
-        /// </summary>
-        /// <param name="newINt">The newINt<see cref="int"/>.</param>
-        public Ogrenci(int newINt)
-        {
-            myInt = newINt;
-        }
-
-        /// <summary>
-        /// The Change_tc.
-        /// </summary>
-        /// <param name="tc">The tc<see cref="string"/>.</param>
-        private void Change_tc(string tc)
-        {
-
-            _tc = tc;
-            Console.WriteLine("changed" + _tc);
-        }
-
-        /// <summary>
-        /// The ChangeTc.
-        /// </summary>
-        /// <param name="tc">The tc<see cref="string"/>.</param>
-        /// <returns>The <see cref="string"/>.</returns>
-        public string ChangeTc(string tc)
-        {
-            Tc = tc;
-            return Tc;
-        }
-
-        /// <summary>
-        /// The Show.
-        /// </summary>
-        /// <returns>The <see cref="int"/>.</returns>
-        public int Show()
-        {
-
-            return myInt;
         }
     }
 }
