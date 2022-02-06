@@ -3,17 +3,18 @@
     using Attributes_Reflections.Abstract;
     using System;
     using System.Reflection;
+    using System.Threading.Tasks;
 
     /// <summary>
     /// Defines the <see cref="Program" />.
     /// </summary>
-    internal class Program
+    public class Program
     {
         /// <summary>
         /// The Main.
         /// </summary>
         /// <param name="args">The args<see cref="string[]"/>.</param>
-        internal static void Main(string[] args)
+        public static void Main(string[] args)
         {
             //Type obj = typeof(Ogrenci);
             //Console.WriteLine("Method infos");
@@ -63,10 +64,10 @@
             //Console.WriteLine(MethodInfoResult);
 
 
-            string str = "aaaaaaaaaaaaaaaaassssaaaaa";
-            Console.WriteLine(str.Validate(new Validator[1]{new LengthValidator() }));
-            string str2 = "assss";
-            Console.WriteLine(str2.Validate(new Validator[2] { new CamelValidator(), new LengthValidator() }));
+            //string str = "aaaaaaaaaaaaaaaaassssaaaaa";
+            //Console.WriteLine(str.Validate(new Validator[1] { new LengthValidator() }));
+            //string str2 = "assss";
+            //Console.WriteLine(str2.Validate(new Validator[2] { new CamelValidator(), new LengthValidator() }));
 
 
 
@@ -157,7 +158,16 @@
             //}
 
             //Console.WriteLine(MethodInfoResult);
+            Console.WriteLine(myFunction().Result);
+
         }
+
+
+        public static Task<int> myFunction()
+        {
+            return Task.FromResult(3);
+        }
+
     }
 
     /// <summary>

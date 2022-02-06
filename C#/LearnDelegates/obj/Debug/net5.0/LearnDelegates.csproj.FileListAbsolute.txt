@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\bin\Debug\net5.0\LearnDelegates.exe
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\bin\Debug\net5.0\LearnDelegates.deps.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\bin\Debug\net5.0\LearnDelegates.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\bin\Debug\net5.0\LearnDelegates.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\bin\Debug\net5.0\LearnDelegates.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\bin\Debug\net5.0\ref\LearnDelegates.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\bin\Debug\net5.0\LearnDelegates.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\obj\Debug\net5.0\LearnDelegates.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\obj\Debug\net5.0\LearnDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\obj\Debug\net5.0\LearnDelegates.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\obj\Debug\net5.0\LearnDelegates.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\obj\Debug\net5.0\LearnDelegates.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\obj\Debug\net5.0\LearnDelegates.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\obj\Debug\net5.0\ref\LearnDelegates.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\obj\Debug\net5.0\LearnDelegates.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnDelegates\obj\Debug\net5.0\LearnDelegates.genruntimeconfig.cache
