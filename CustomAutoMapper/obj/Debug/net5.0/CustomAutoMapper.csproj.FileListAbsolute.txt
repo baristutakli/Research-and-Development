@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\bin\Debug\net5.0\CustomAutoMapper.exe
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\bin\Debug\net5.0\CustomAutoMapper.deps.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\bin\Debug\net5.0\CustomAutoMapper.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\bin\Debug\net5.0\CustomAutoMapper.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\bin\Debug\net5.0\CustomAutoMapper.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\bin\Debug\net5.0\CustomAutoMapper.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\CustomAutoMapper.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\CustomAutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\CustomAutoMapper.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\CustomAutoMapper.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\CustomAutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\CustomAutoMapper.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\refint\CustomAutoMapper.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\CustomAutoMapper.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\CustomAutoMapper.genruntimeconfig.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\CustomAutoMapper\obj\Debug\net5.0\ref\CustomAutoMapper.dll

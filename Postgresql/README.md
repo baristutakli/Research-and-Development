@@ -1,6 +1,6 @@
 #### Postgresql
 
-I use a PostgreSQL sample database for learning and practice PostgreSQL. Postgresql is a **open source** and **relational** database management system. The sample database called **DVD Rental** and available on the Postgresql website. You can find the diagram at the bottom of this files.
+I used a PostgreSQL sample database for learning and practice PostgreSQL. Postgresql is a **open source** and **relational** database management system. The sample database called **DVD Rental** and available on the Postgresql website. You can find the diagram at the bottom of this files.
 
 * To connect Postgresql using psql: psql -U <userName>
 * To list databases: \l or \list
