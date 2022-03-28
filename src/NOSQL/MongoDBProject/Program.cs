@@ -1,6 +1,15 @@
+using Microsoft.Extensions.Options;
+using MongoDBProject.Common;
+using MongoDBProject.Common.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDB"));
+
+builder.Services.AddSingleton<IMongoDBSettings>(serviceProvider =>
+    serviceProvider.GetRequiredService<IOptions<MongoDBSettings>>().Value);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
