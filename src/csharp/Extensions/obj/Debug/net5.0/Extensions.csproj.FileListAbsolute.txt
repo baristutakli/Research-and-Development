@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\bin\Debug\net5.0\Extensions.exe
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\bin\Debug\net5.0\Extensions.deps.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\bin\Debug\net5.0\Extensions.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\bin\Debug\net5.0\Extensions.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\bin\Debug\net5.0\Extensions.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\bin\Debug\net5.0\Extensions.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\Extensions.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\Extensions.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\refint\Extensions.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\Extensions.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\Extensions.genruntimeconfig.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Extensions\obj\Debug\net5.0\ref\Extensions.dll

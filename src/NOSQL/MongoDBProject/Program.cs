@@ -1,6 +1,9 @@
 using Microsoft.Extensions.Options;
 using MongoDBProject.Common;
+using MongoDBProject.Common.Concrete;
+using MongoDBProject.Common.Context;
 using MongoDBProject.Common.Interfaces;
+using MongoDBProject.DataAccess;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +14,8 @@ builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("Mo
 builder.Services.AddSingleton<IMongoDBSettings>(serviceProvider =>
     serviceProvider.GetRequiredService<IOptions<MongoDBSettings>>().Value);
 
+builder.Services.AddScoped<IPlaylistRepository, PlaylistRepository>();
+builder.Services.AddScoped<IMongoContext, MongoContext>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

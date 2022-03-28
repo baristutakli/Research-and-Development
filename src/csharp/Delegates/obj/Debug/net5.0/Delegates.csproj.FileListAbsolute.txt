@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\bin\Debug\net5.0\Delegates.exe
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\bin\Debug\net5.0\Delegates.deps.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\bin\Debug\net5.0\Delegates.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\bin\Debug\net5.0\Delegates.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\Delegates.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\refint\Delegates.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\Delegates.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\Delegates\obj\Debug\net5.0\ref\Delegates.dll

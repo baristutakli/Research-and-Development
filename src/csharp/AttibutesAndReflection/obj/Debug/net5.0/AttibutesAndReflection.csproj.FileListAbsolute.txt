@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\bin\Debug\net5.0\AttibutesAndReflection.exe
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\bin\Debug\net5.0\AttibutesAndReflection.deps.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\bin\Debug\net5.0\AttibutesAndReflection.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\bin\Debug\net5.0\AttibutesAndReflection.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\bin\Debug\net5.0\AttibutesAndReflection.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\bin\Debug\net5.0\AttibutesAndReflection.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\AttibutesAndReflection.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\AttibutesAndReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\AttibutesAndReflection.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\AttibutesAndReflection.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\AttibutesAndReflection.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\AttibutesAndReflection.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\refint\AttibutesAndReflection.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\AttibutesAndReflection.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\AttibutesAndReflection.genruntimeconfig.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\AttibutesAndReflection\obj\Debug\net5.0\ref\AttibutesAndReflection.dll

@@ -4,7 +4,7 @@ using MongoDBProject.Common.Interfaces;
 
 namespace MongoDBProject.Common.Context
 {
-    public class MongoContext
+    public class MongoContext: IMongoContext
     {
         private readonly MongoClient _dBClient;
         private readonly IMongoDatabase _db;
