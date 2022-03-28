@@ -8,3 +8,4 @@
 * Delegates
 * Extension methods
 * Postgresql. You can find all my notes about postqresql in Postgresql folder.
+* MongoDB using generic repository pattern 
