@@ -47,4 +47,5 @@ An alias is used  create shorter commands that map to longer Git commands.
 * git commit -m < meesage name >
 ##### How to push?
 * git push
-
+##### How to undo any changes?
+* git reset < commit >
