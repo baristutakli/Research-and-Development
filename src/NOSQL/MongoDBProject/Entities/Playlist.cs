@@ -6,10 +6,6 @@ namespace MongoDBProject.Entities
 {
     public class Playlist:BaseEntity
     {
-        public Playlist()
-        {
-            CreatedAt = Id.CreationTime;
-        }
         public string UserName { get; set; } = null!;
         [BsonElement("Items")]
         [JsonPropertyName("Items")]

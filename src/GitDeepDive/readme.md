@@ -39,3 +39,12 @@ An alias is used  create shorter commands that map to longer Git commands.
 * git branch -m < name of the branch >
 ##### How to switch between branches?
 * git checkout < name of the branch to switch>
+##### How to add a file or folder?
+* git add < name of the branch >
+##### How to add all files?
+* git add .
+##### How to commit?
+* git commit -m < meesage name >
+##### How to push?
+* git push
+

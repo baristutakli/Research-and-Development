@@ -8,7 +8,7 @@ namespace MongoDBProject.Entities.Abstract
         [BsonId]
         [BsonRepresentation(BsonType.String)]
         public ObjectId Id { get; set; }
-        public DateTime CreatedAt { get; protected set; }
+        public DateTime CreatedAt { get; set; }
             
     }
 }
