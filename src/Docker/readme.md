@@ -29,8 +29,8 @@ docker run -dp 3000:3000 getting-started
 
 * -d: detached
 * -p: port
-* 3000:3000  host port and container port
-* "getting-started: name of the container
+* 3000:3000 ~ host port:container port
+* "getting-started": Name of the container
 
 #### How to get the Id of a container
 ```
