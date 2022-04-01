@@ -1,0 +1,15 @@
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\bin\Debug\net6.0\CQRSWithEventSourcing.exe
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\bin\Debug\net6.0\CQRSWithEventSourcing.deps.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\bin\Debug\net6.0\CQRSWithEventSourcing.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\bin\Debug\net6.0\CQRSWithEventSourcing.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\bin\Debug\net6.0\CQRSWithEventSourcing.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\CQRSWithEventSourcing.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\CQRSWithEventSourcing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\CQRSWithEventSourcing.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\CQRSWithEventSourcing.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\CQRSWithEventSourcing.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\CQRSWithEventSourcing.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\refint\CQRSWithEventSourcing.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\CQRSWithEventSourcing.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\CQRSWithEventSourcing.genruntimeconfig.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\src\csharp\CQRSWithEventSourcing\obj\Debug\net6.0\ref\CQRSWithEventSourcing.dll
